@@ -12,6 +12,9 @@ The app creates an engaging virtual environment for the users to learn, interact
 
 
 ## Video Submission
+
+You can checkout our video submission demo on youtube by clicking on the thumbnail below.
+
 ![Thumbnail Scrizzel](https://user-images.githubusercontent.com/40912399/161393755-96576858-17ae-4d4f-8a4c-bf6535f2b6e6.png)
 
 TODO ::: link of video attach it to thumbnail -> https://youtu.be/P0oM-ONZaKs

@@ -70,7 +70,7 @@ Refer this amazing video if you face any problem https://www.youtube.com/watch?v
 
 ##### ArCore
 
-##### Made with ♥ by 
+##### Made by Team Scrizzel
 
 <p align="left">
 <a href="https://github.com/Amankazz"><img width="140px" src="https://avatars.githubusercontent.com/u/40912399?v=4"></a><a href="https://github.com/Nikoszc"><img width="140px" src="https://avatars.githubusercontent.com/u/54637215?v=4"></a><a href="https://github.com/pccoder-2000"><img width="140px" src="https://avatars.githubusercontent.com/u/66944725?v=4"></a>

@@ -25,6 +25,9 @@ TODO ::: link of video attach it to thumbnail -> https://youtu.be/P0oM-ONZaKs
 
 - For the base of your app we use Unity 3D which complements best with existing technologies of AR/VR. Unity 3D serves as a foundation to build the initial User-interface of the app and its controls using C#. 
 
+
+![Screenshot_6](https://user-images.githubusercontent.com/40912399/161415060-c80b257d-5014-4fc0-b5e8-fb0c46050503.png)
+
 - For the backend, we mostly relied on Firebase, as it was easier to integrate with the flutter app, without any hassle to manage & create instances of our server.
 
 - For storing the different types of data including 3d models, videos for image mapping, etc. we chose Cloud Firestore because of its robust features and ability to query & filter out data with ease.

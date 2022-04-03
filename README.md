@@ -54,26 +54,26 @@ Scrizzel_GSC/Assets/Scenes/SecondScreenUI.unity
 
 ### (Extra Packages required) 
 
-#####  EasyAr (Version 4.2) download
+##### - Download EasyAr (Version 4.2) 
 ```bash
  https://www.easyar.com/view/downloadHistory.html
 ```
 
-##### for generating new licence 
+##### - Generate new EasyAR licence 
 ```bash
 https://www.easyar.com/    
 ```
 
 Refer this amazing video if you face any problem https://www.youtube.com/watch?v=lX-8s3GkHwE&ab_channel=ThirdAurora )
 
-##### ArFoundation
+##### - ArFoundation
 
-##### ArCore
+##### - ArCore
 
-##### Made by Team Scrizzel
+### Made by Team Scrizzel
 
 <p align="left">
-<a href="https://github.com/Amankazz"><img width="140px" src="https://avatars.githubusercontent.com/u/40912399?v=4"></a><a href="https://github.com/Nikoszc"><img width="140px" src="https://avatars.githubusercontent.com/u/54637215?v=4"></a><a href="https://github.com/pccoder-2000"><img width="140px" src="https://avatars.githubusercontent.com/u/66944725?v=4"></a>
+<a href="https://github.com/Nikoszc"><img width="140px" src="https://avatars.githubusercontent.com/u/54637215?v=4"></a><a href="https://github.com/Amankazz"><img width="140px" src="https://avatars.githubusercontent.com/u/40912399?v=4"></a><a href="https://github.com/pccoder-2000"><img width="140px" src="https://avatars.githubusercontent.com/u/66944725?v=4"></a>
 </p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Amankazz)

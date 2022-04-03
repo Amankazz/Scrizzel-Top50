@@ -2,12 +2,11 @@
 ![User Interface_1 ](https://user-images.githubusercontent.com/40912399/161394038-56a75e12-5ea7-4343-aa39-ec7405c1b134.png)
 
 
-# Scrizzel_GSC
+<h1 align="center"> Scrizzel_GSC </h1>
+<p align="center">A <b>Google DSC Solution Challenge</b> submission.</p>
 
-A google DSC Solution Challenge submission
-
-Scrizzel is an app that breath life into a book by making static text and images come alive. Its a virtual reality app that make a book intractive and self explanitory. 
-The app creates an engaging virtual environment for the users to learn, interact and try out new practical skills.
+<p align="center">Scrizzel is an app that breath life into a book by making static text and images come alive. Its a virtual reality app that make a book intractive and self explanitory. 
+The app creates an engaging virtual environment for the users to learn, interact and try out new practical skills.</p>
 
 
 
@@ -15,11 +14,8 @@ The app creates an engaging virtual environment for the users to learn, interact
 
 You can checkout our video submission demo on youtube by clicking on the thumbnail below.
 
-![Thumbnail Scrizzel](https://user-images.githubusercontent.com/40912399/161393755-96576858-17ae-4d4f-8a4c-bf6535f2b6e6.png)
-
-TODO ::: link of video attach it to thumbnail -> https://youtu.be/P0oM-ONZaKs
-
-
+<a href="https://youtu.be/P0oM-ONZaKs">
+<img src="https://user-images.githubusercontent.com/40912399/161393755-96576858-17ae-4d4f-8a4c-bf6535f2b6e6.png" width="700px">                                      </a>
 
 ## Description
 
@@ -37,21 +33,49 @@ TODO ::: link of video attach it to thumbnail -> https://youtu.be/P0oM-ONZaKs
 
 ## Setup
 
-- This project is build on Unity version 2020.3.28f1 (64-bit)    https://unity3d.com/get-unity/download/archive
+##### Clone the repository
+```bash
+git clone https://github.com/Amankazz/Scrizzel_GSC.git
+```
+  ##### Move to the desired folder
+```bash
+cd \Scrizzel_GSC
+```
 
-- Download the repository in desired folder
+  ##### Download the unity version 2020.3.28f1 (64-bit)
+```bash
+https://unity3d.com/get-unity/download/archive
+```
+  ##### To run the app, simply run
+```bash
+Scrizzel_GSC/Assets/Scenes/SecondScreenUI.unity
+```  
 
-- To run the app open Scrizzel_GSC/Assets/Scenes/SecondScreenUI.unity
 
 ### (Extra Packages required) 
-- EasyAr (Version 4.2) download
--> https://www.easyar.com/view/downloadHistory.html
-for generating new licence -> https://www.easyar.com/    (refer this amazing video if you face any problem https://www.youtube.com/watch?v=lX-8s3GkHwE&ab_channel=ThirdAurora )
-- ArFoundation
 
-- ArCore
+#####  EasyAr (Version 4.2) download
+```bash
+ https://www.easyar.com/view/downloadHistory.html
+```
 
+##### for generating new licence 
+```bash
+https://www.easyar.com/    
+```
 
+Refer this amazing video if you face any problem https://www.youtube.com/watch?v=lX-8s3GkHwE&ab_channel=ThirdAurora )
 
+##### ArFoundation
+
+##### ArCore
+
+##### Made with ♥ by 
+
+<p align="left">
+<a href="https://github.com/Amankazz"><img width="140px" src="https://avatars.githubusercontent.com/u/40912399?v=4"></a><a href="https://github.com/Nikoszc"><img width="140px" src="https://avatars.githubusercontent.com/u/54637215?v=4"></a><a href="https://github.com/pccoder-2000"><img width="140px" src="https://avatars.githubusercontent.com/u/66944725?v=4"></a>
+</p>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Amankazz)
 
 

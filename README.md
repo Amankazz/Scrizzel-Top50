@@ -37,15 +37,16 @@ TODO ::: link of video attach it to thumbnail -> https://youtu.be/P0oM-ONZaKs
 
 ## Setup
 
-- This project is build on Unity version 2020.3.28f1 (64-bit)
+- This project is build on Unity version 2020.3.28f1 (64-bit)    https://unity3d.com/get-unity/download/archive
 
 - Download the repository in desired folder
 
 - To run the app open Scrizzel_GSC/Assets/Scenes/SecondScreenUI.unity
 
 ### (Extra Packages required) 
-- EasyAr (Version 4.2) licence (refer this amazing video if you face any problem https://www.youtube.com/watch?v=lX-8s3GkHwE&ab_channel=ThirdAurora )
-
+- EasyAr (Version 4.2) download
+-> https://www.easyar.com/view/downloadHistory.html
+for generating new licence -> https://www.easyar.com/    (refer this amazing video if you face any problem https://www.youtube.com/watch?v=lX-8s3GkHwE&ab_channel=ThirdAurora )
 - ArFoundation
 
 - ArCore

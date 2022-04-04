@@ -70,6 +70,13 @@ Refer this amazing video if you face any problem https://www.youtube.com/watch?v
 
 ##### - ArCore
 
+
+### APK of the app (First version)
+```bash
+https://drive.google.com/file/d/1tkdKq_m6nFKug32cz-C6MUnhrRLPr6HU/view?usp=sharing
+```
+
+
 ### Made by Team Scrizzel
 
 <p align="left">

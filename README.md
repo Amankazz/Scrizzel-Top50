@@ -1,6 +1,21 @@
+<h1 align="center"> User Interface </h1>
 
-![User Interface_1 ](https://user-images.githubusercontent.com/40912399/161394038-56a75e12-5ea7-4343-aa39-ec7405c1b134.png)
 
+![s1](https://user-images.githubusercontent.com/66944725/172228045-bbfad6f2-7057-4b8f-a79b-c0cd15799aa3.png)
+
+
+
+![User Interface_1 ](https://user-images.githubusercontent.com/66944725/172227532-9b386e93-6ef8-4ad2-ae70-4c9e67a55f7d.png)
+
+
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/66944725/172231590-58848686-7725-4577-9487-b314b1865400.png"
+  >
+</p>
+
+                                
 
 <h1 align="center"> Scrizzel_GSC </h1>
 <p align="center">A <b>Google DSC Solution Challenge</b> submission.</p>
@@ -24,7 +39,9 @@ You can checkout our video submission demo on youtube by clicking on the thumbna
 
 ![Screenshot_6](https://user-images.githubusercontent.com/40912399/161415060-c80b257d-5014-4fc0-b5e8-fb0c46050503.png)
 
-- For the backend, we mostly relied on Firebase, as it was easier to integrate with the flutter app, without any hassle to manage & create instances of our server.
+- For the backend, we mostly relied on Firebase, as it was easier to integrate with the flutter app, without any hassle to manage & create instances of our server.!
+
+
 
 - For storing the different types of data including 3d models, videos for image mapping, etc. we chose Cloud Firestore because of its robust features and ability to query & filter out data with ease.
 
@@ -46,11 +63,34 @@ cd \Scrizzel_GSC
 ```bash
 https://unity3d.com/get-unity/download/archive
 ```
-  ##### To run the app, simply run
+
+##### To run the app you need to connect the flutter and unity project So open the flutter project in android studio or visual studio code.
+
+##### Open the unity 3d and simply run
 ```bash
 Scrizzel-Top50/Assets/Scenes/SecondScreenUI.unity
 ```  
 
+##### You can refer to these videos to connect the flutter with unity
+```bash
+https://www.youtube.com/watch?v=WOMrvhS_o_Y
+```  
+```bash
+https://www.youtube.com/watch?v=1HHIER5dLUY
+``` 
+
+
+##### After completing the above-mentioned steps uncomment the code present in the file below
+```
+Scrizzel-Top50/Flutter/lib/widgets/unity_events.dart
+
+Scrizzel-Top50/Flutter/lib/widgets/my_Unity.dart
+
+Scrizzel-Top50/Flutter/lib/widgets/unity_helpers.dart
+
+```
+##### Uncomment flutter_unity_widget, flutter_unity plugins from the below file
+```Scrizzel-Top50/Flutter/pubspec.yaml```
 
 ### (Extra Packages required) 
 

@@ -35,7 +35,7 @@ You can checkout our video submission demo on youtube by clicking on the thumbna
 
 ##### Clone the repository
 ```bash
-git clone https://github.com/Amankazz/Scrizzel_GSC.git
+git clone https://github.com/Amankazz/Scrizzel-Top50.git
 ```
   ##### Move to the desired folder
 ```bash

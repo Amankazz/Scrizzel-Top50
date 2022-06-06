@@ -48,7 +48,7 @@ https://unity3d.com/get-unity/download/archive
 ```
   ##### To run the app, simply run
 ```bash
-Scrizzel_GSC/Assets/Scenes/SecondScreenUI.unity
+Scrizzel-Top50/Assets/Scenes/SecondScreenUI.unity
 ```  
 
 

@@ -14,7 +14,7 @@ The app creates an engaging virtual environment for the users to learn, interact
 
 You can checkout our video submission demo on youtube by clicking on the thumbnail below.
 
-<a href="https://youtu.be/P0oM-ONZaKs">
+<a href="[https://youtu.be/P0oM-ONZaKs](https://youtu.be/2F8WkemWCtE)">
 <img src="https://user-images.githubusercontent.com/40912399/161393755-96576858-17ae-4d4f-8a4c-bf6535f2b6e6.png" width="700px">                                      </a>
 
 ## Description

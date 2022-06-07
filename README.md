@@ -92,6 +92,11 @@ Scrizzel-Top50/Flutter/lib/widgets/unity_helpers.dart
 ##### Uncomment flutter_unity_widget, flutter_unity plugins from the below file
 ```Scrizzel-Top50/Flutter/pubspec.yaml```
 
+##### Login & password to test the app
+``` aman@gmail.com ```
+``` 123456 ```
+
+
 ### (Extra Packages required) 
 
 ##### - Download EasyAr (Version 4.2) 

@@ -1,4 +1,13 @@
-<h1 align="center"> User Interface </h1>
+<h1 align="center"> Scrizzel_GSC </h1>
+<p align="center">A <b>Google DSC Solution Challenge</b> submission.</p>
+
+<p align="center">Scrizzel is an app that breath life into a book by making static text and images come alive. Its a virtual reality app that make a book intractive and self explanitory. 
+The app creates an engaging virtual environment for the users to learn, interact and try out new practical skills.</p>
+
+<br></br>
+
+
+<h2 align="center"> User Interface </h2>
 
 
 ![s1](https://user-images.githubusercontent.com/66944725/172228045-bbfad6f2-7057-4b8f-a79b-c0cd15799aa3.png)
@@ -15,14 +24,8 @@
   >
 </p>
 
-                                
-
-<h1 align="center"> Scrizzel_GSC </h1>
-<p align="center">A <b>Google DSC Solution Challenge</b> submission.</p>
-
-<p align="center">Scrizzel is an app that breath life into a book by making static text and images come alive. Its a virtual reality app that make a book intractive and self explanitory. 
-The app creates an engaging virtual environment for the users to learn, interact and try out new practical skills.</p>
-
+                             
+<br></br>
 
 
 ## Video Submission
@@ -47,6 +50,7 @@ You can checkout our video submission demo on youtube by clicking on the thumbna
 
 - For image tracking, motion tracking, and plane tracking functionalities we used ArCore, ARFoundation and EasyAr SDK.  
 
+<br></br>
 
 ## Setup
 

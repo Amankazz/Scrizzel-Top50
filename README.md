@@ -126,12 +126,6 @@ https://drive.google.com/file/d/1tkdKq_m6nFKug32cz-C6MUnhrRLPr6HU/view?usp=shari
 ```
 
 
-### Made by Team Scrizzel
 
-<p align="left">
-<a href="https://github.com/Nikoszc"><img width="140px" src="https://avatars.githubusercontent.com/u/54637215?v=4"></a><a href="https://github.com/Amankazz"><img width="140px" src="https://avatars.githubusercontent.com/u/40912399?v=4"></a><a href="https://github.com/pccoder-2000"><img width="140px" src="https://avatars.githubusercontent.com/u/66944725?v=4"></a>
-</p>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Amankazz)
 
 
